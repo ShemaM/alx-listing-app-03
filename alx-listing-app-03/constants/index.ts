@@ -28,7 +28,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       city: "Colorado",
       country: "USA"
     },
-    rating: 4.70,
+    rating: 4.7,
     category: ["Mountain View", "Fireplace", "Self Checkin"],
     price: 1800,
     offers: {
@@ -136,7 +136,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       city: "Surat Thani",
       country: "Thailand"
     },
-    rating: 4.80,
+    rating: 4.8,
     category: ["Garden", "Free Parking", "Self Checkin"],
     price: 2750,
     offers: {
@@ -154,7 +154,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       city: "Berlin",
       country: "Germany"
     },
-    rating: 4.60,
+    rating: 4.6,
     category: ["City Center", "Free WiFi", "24h Checkin"],
     price: 2000,
     offers: {
